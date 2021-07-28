@@ -1,4 +1,4 @@
-# Surs School Website Project
+# Surf School Website Project
 
 
 ## 💻 Introduction
